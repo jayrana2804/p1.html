@@ -1,0 +1,21 @@
+body{background:
+    linear-gradient(to right,
+      rgba(74, 19, 48, 0.78),
+      rgba(142, 213, 49, 0.66)
+    ),
+}
+
+body{
+
+    background:linear-gradient(to right,yellow ,orange);
+}
+main{
+background:linear-gradient(to right,cyan,lightcyan);
+}
+B{
+    background-color: blueviolet
+}
+B:hover{
+  background:yellowgreen;
+  color:white;
+}
